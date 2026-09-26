@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden circular halo / Prabhavali -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="1.8"
+        android:pathData="M54,26 A28,28 0 1 0 54,82 A28,28 0 1 0 54,26 Z" />
+    <path
+        android:strokeColor="#FFE082"
+        android:strokeWidth="0.8"
+        android:pathData="M54,28 A26,26 0 1 0 54,80 A26,26 0 1 0 54,28 Z" />
+    
+    <!-- Classical Dancer Pose Silhouette (Head, Crown, Mudras, Plie/Aramandi) -->
+    <!-- Head & Crown -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,30 L55.5,33 L52.5,33 Z M54,34 A3.2,3.2 0 1 0 54,40.4 A3.2,3.2 0 1 0 54,34 Z" />
+    
+    <!-- Torso and Shawl/Angavastram -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M51.5,41 L56.5,41 L58,52 L50,52 Z" />
+    
+    <!-- Left Hand: Extended Abhaya/Pataka mudra -->
+    <path
+        android:strokeColor="#FFE082"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M52,43 Q41,43 38,40" />
+    
+    <!-- Right Hand: Graceful Natya curve / Dola Hasta -->
+    <path
+        android:strokeColor="#FFE082"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M56,43 Q67,44 70,39" />
+    
+    <!-- Aramandi pleated fan costume & legs in Bharatanatyam pose -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M50,52 L58,52 L66,63 L42,63 Z" />
+    
+    <!-- Standing leg & lifted dancing foot -->
+    <!-- Left leg grounded -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M49,63 L49,74 L46,75" />
+    
+    <!-- Right leg raised in classical Nataraja pose -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M57,63 L65,68 L53,71" />
+    
+    <!-- Salangai / Ghungroo accent dots on feet -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M48,73 A1,1 0 1 0 48,75 A1,1 0 1 0 48,73 Z M54,70 A1,1 0 1 0 54,72 A1,1 0 1 0 54,70 Z" />
+
+    <!-- Lotus pedestal base -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M40,78 Q54,75 68,78 Q54,82 40,78 Z" />
+</vector>

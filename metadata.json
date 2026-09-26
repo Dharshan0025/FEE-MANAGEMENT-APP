@@ -1,0 +1,6 @@
+{
+  "name": "DeMA Nrithyalaya",
+  "description": "Comprehensive institution and fee management platform for Sri DeMA Nrithyalaya Arts classical dance academy, featuring fee tracking, digital receipts, WhatsApp reminders, events, and lead management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
